@@ -1,5 +1,3 @@
-import random
-
 from django.db import models
 from django.conf import settings
 import redis
@@ -44,5 +42,5 @@ class Unit(models.Model):
         super(Unit, self).save(*args, **kwargs)
 
     class Meta:
-            managed = False
-            db_table = 'input_gekko"."gekko'
+        managed = False
+        db_table = 'input_gekko"."gekko'
