@@ -58,7 +58,7 @@ MIDDLEWARE = [
 
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:8082",
-    "159.89.27.194:8082",
+    "http://159.89.27.194:8082",
 ]
 
 ROOT_URLCONF = 'access.urls'
