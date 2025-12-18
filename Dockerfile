@@ -1,3 +1,5 @@
+LABEL org.opencontainers.image.source https://github.com/acowa-dk/wasys-hive-access
+
 FROM python:3.11-slim
 
 # Set working directory to Django project root
