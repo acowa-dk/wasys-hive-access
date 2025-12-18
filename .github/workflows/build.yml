@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAMESPACE: wasys-hive
+  IMAGE_NAMESPACE: acowa-dk
 
 jobs:
   build:
