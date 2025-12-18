@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 # Wait for DB to be ready (optional)
 # python manage.py wait_for_db
