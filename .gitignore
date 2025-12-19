@@ -1,5 +1,5 @@
 .env
 
-staticfiles
+staticfiles/
 
 *.pyc
